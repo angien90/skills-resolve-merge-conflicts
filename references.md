@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Here we create our own conflict by adding a file. 
